@@ -34,15 +34,15 @@ Contributed to the development of the *“Vacation Rental Map of Adeje”*, focu
 
 ## 🔒 Private Reports & Technical Summaries
 
-### 📘 La Palma Semiannual Tourism Report  
+### 📘 Semiannual Tourism Report  
 Macro-level tourism analysis developed with Excel + PowerPoint. Includes a technical repository with methodology, documentation, and anonymized slides.  
-🔗 **Repository (anonymized):** [La Palma Semiannual Report — Repo]
+🔗 **Repository (anonymized):** [Semiannual Report — Repo]
 
 ---
 
-### 📊 La Palma Monthly Tourism Dashboard  
+### 📊 Monthly Tourism Dashboard  
 Operational Power BI dashboard for monthly monitoring. The repository includes methodological notes and screenshots.  
-🔗 **Repository (anonymized):** [La Palma Monthly Dashboard — Repo]
+🔗 **Repository (anonymized):** [Monthly Dashboard — Repo]
 
 ---
 
